@@ -1,0 +1,27 @@
+body {
+  font-family: Arial;
+  background-color: #f0f0f0;
+  padding: 30px;
+}
+
+.container {
+  background: white;
+  padding: 20px;
+  max-width: 500px;
+  margin: auto;
+}
+
+input {
+  padding: 10px;
+  width: 70%;
+}
+
+button {
+  padding: 10px;
+}
+
+.todo {
+  background: #e8e8e8;
+  padding: 10px;
+  margin-top: 10px;
+}
