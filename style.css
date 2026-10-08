@@ -1,27 +1,57 @@
+/* Kogu lehe kujundus */
 body {
   font-family: Arial;
+  /* Teksti font */
+
   background-color: #f0f0f0;
+  /* Tausta värv */
+
   padding: 30px;
+  /* Äärtest vahe */
 }
 
+
+/* Todo Listi konteiner */
 .container {
   background: white;
+  /* Valge taust */
+
   padding: 20px;
+  /* Sisu ümber vahe */
+
   max-width: 500px;
+  /* Maksimaalne laius */
+
   margin: auto;
+  /* Paigutab keskele */
 }
 
+
+/* Tekstikast */
 input {
   padding: 10px;
+  /* Teksti ümber vahe */
+
   width: 70%;
+  /* Tekstikasti laius */
 }
 
+
+/* Lisa nupp */
 button {
   padding: 10px;
+  /* Nupu ümber vahe */
 }
 
+
+/* Üks Todo ülesanne */
 .todo {
   background: #e8e8e8;
+  /* Ülesande tausta värv */
+
   padding: 10px;
+  /* Ülesande ümber vahe */
+
   margin-top: 10px;
+  /* Ülesannete vahe */
 }
